@@ -4,7 +4,7 @@
 }
 
 /* challenge-01---------------------------------------------------------------------------- */
-.card {
+/* .card {
     width: 480px;
     border: 2px solid gainsboro;
     position: relative;
@@ -60,10 +60,7 @@
     background-color: #16949b;
     line-height: 0rem;
   }
-  .max-safety{
-    /* width: fit-content; */
-    background-color: #fbd4af;
-  }
+
   .safety-content{
     border-top:2px solid  gainsboro;
     display: flex;
@@ -72,16 +69,17 @@
   }
   .safety-mesure{
     font-size: 20px;
-    /* display: inline; */
-  }
+  } */
+
 /* challenge-02-------------------------------------------------------------------------- */
 
 /* .card {
+  width: 700px;
   text-align: center;
   position: relative;
 }
 .image {
-  width: 700px;
+  width: 100%;
   border-radius: 15px;
 }
 .heading {
@@ -107,20 +105,20 @@
   color: white;
   font-size: 20px;
 }
-.btn{
-    background-color: #fff;
-    padding: 10px 20px;
-    font-size: 20px;
-    border-radius: 25px;
-    position: absolute;
-    top: 300px;
-    left: 260px;
-    border: none;
+.btn {
+  background-color: #fff;
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 25px;
+  position: absolute;
+  top: 300px;
+  left: 260px;
+  border: none;
 } */
 
 /* challenge -03---------------------------------------------------------------------------- */
 
-/* .background {
+.background {
   position: relative;
 }
 .image {
@@ -169,8 +167,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-} */
-
+}
 
 /* challenge-04-------------------------------------------------------------------------------- */
 
